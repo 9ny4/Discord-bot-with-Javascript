@@ -2,16 +2,6 @@
 
 This is a simple Discord bot built with JavaScript. It supports several commands and features to interact with users on a Discord server.
 
-## Features
-
-- Responds to `!ping` messages with the bot's ping.
-- Supports slash commands:
-  - `/ping`: Replies with the bot's ping.
-  - `/add`: Adds two numbers together.
-  - `/embed`: Sends an embed message.
-  - `/silent`: Sends a silent embed message.
-- Assigns and removes roles using buttons.
-
 ## Commands
 
 ### Message Commands
@@ -55,5 +45,3 @@ This is a simple Discord bot built with JavaScript. It supports several commands
 This is my first Discord bot in JavaScript, and my first JavaScript project overall, so don't expect it to be perfect.
 
 ---
-
-Enjoy using the bot!
